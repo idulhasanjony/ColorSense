@@ -6,7 +6,7 @@
 Before running the projet, follow these steps:
 <br/>
 <ol>
-<ol>Import project (Color Sense) in Eclipse</li>
+<li>Import project (Color Sense) in Eclipse</li>
 <li>Change line 30 of ColorFrame.java to path of default folder </li>
 <li>Change line 20 of ColorDetection.java to path of file that contains the rgb color list (rgblist3.txt)</li>
 <li> Compile & Run ColorFrame.java 
